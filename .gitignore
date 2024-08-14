@@ -1,0 +1,10 @@
+logs
+*.log
+pnpm-debug.log*
+
+*.local
+.DS_Store
+
+node_modules
+dist-ssr
+dist
